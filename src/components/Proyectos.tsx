@@ -29,8 +29,8 @@ const Proyectos = () => {
                 titulo="Mi Portfolio" 
                 texto="" 
                 skills={["React.js","TypeScript", "JavaScript", "Shadcn UI","Tailwind CSS", "HTML"]}
-                link1="https://envios-flash-react.vercel.app/"
-                link2="https://github.com/aronaguilar/WORDLE-con-REACT-TYPESCRIPT---NODE.JS-EXPRESS-SQLITE"
+                link1="https://portfolio-aron-aguilar.vercel.app/"
+                link2="https://github.com/aronaguilar/Portfolio-Aron-Aguilar"
                 />
             </div>
         </div>
