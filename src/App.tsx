@@ -3,6 +3,7 @@ import Proyectos from "./components/Proyectos";
 import { Separator } from "./components/ui/separator";
 import Presentacion from "./components/Presentacion";
 import Stack from "./components/Stack";
+import SobreMi from "./components/SobreMi";
 import { useEffect } from "react";
 import { useTheme } from 'next-themes';
 import './App.css'
@@ -27,6 +28,8 @@ function App() {
         <Proyectos></Proyectos>
         <Separator></Separator>
         <Stack></Stack>
+        <Separator></Separator>
+        <SobreMi />
     </div>
   )
 }

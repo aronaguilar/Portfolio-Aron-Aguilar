@@ -34,7 +34,7 @@ const Header = () => {
                 <a href="#lenguajes">
                     <Button variant="outline">Lenguajes y Herramientas</Button>
                 </a>
-                <a href="">
+                <a href="#sobre-mi">
                     <Button variant="outline">Sobre mi</Button>
                 </a>
             </div>

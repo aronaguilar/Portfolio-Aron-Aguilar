@@ -21,7 +21,7 @@ const DropdownMenuBasic = () => {
                     <DropdownMenuItem onClick={()=>{window.location.href ='#inicio'}}>Inicio</DropdownMenuItem>
                     <DropdownMenuItem onClick={()=>{window.location.href ='#proyectos'}}>Proyectos</DropdownMenuItem>
                     <DropdownMenuItem onClick={()=>{window.location.href ='#lenguajes'}}>Stack</DropdownMenuItem>
-                    <DropdownMenuItem onClick={()=>{window.location.href ='#inicio'}}>Sobre mi</DropdownMenuItem>
+                    <DropdownMenuItem onClick={()=>{window.location.href ='#sobre-mi'}}>Sobre mí</DropdownMenuItem>
                 </DropdownMenuGroup>
                 <DropdownMenuSeparator />
                     <DropdownMenuItem onClick={()=>{window.location.href ='https://github.com/aronaguilar'}}>GitHub</DropdownMenuItem>
