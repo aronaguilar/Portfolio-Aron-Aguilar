@@ -17,8 +17,8 @@ const Proyectos = () => {
                 link2="https://github.com/aronaguilar/WORDLE-con-REACT-TYPESCRIPT---NODE.JS-EXPRESS-SQLITE"
                 />
                 <CardImage 
-                image={"/enviosflash.PNG"} 
-                titulo="Envios Flash" 
+                image={"/gimnasio-pro"} 
+                titulo="Gimnasio Pro" 
                 texto="" 
                 skills={["React.js","JavaScript","TypeScript","CSS", "Node.js", "Express", "HTML"]}
                 link1="https://envios-flash-react.vercel.app/"
